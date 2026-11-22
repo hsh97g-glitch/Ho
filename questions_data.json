@@ -1,137 +1,376 @@
 {
-    "الفيزياء": [],
-    "الكيمياء": [
-        {
-            "title": "أسئلة ثقافية منوعة - موضوع",
-            "link": "https://mawdoo3.com/أسئلة_ثقافية_منوعة",
-            "snippet": "أسئلة ثقافية منوعة أسئلة في الثقافة العامّة فيما يأتي أسئلة في مجالات متنوعة: [١] [٢] [٣] من كم لون يتكون قوس قزح ؟ الجواب: 7 ألوان. كم عدد أحرف اللغة الإنجليزية؟ الجواب: …"
-        },
-        {
-            "title": "أسئلة عامة وإجاباتها 2026: سهلة وصعبة للكبار والأطفال",
-            "link": "https://mhtwyat.com/اسئلة-عامة-واجوبتها/",
-            "snippet": "Oct 9, 2026 · اسئلة عامة وإجاباتها سهلة وصعبة 2026 – أكثر من 180 سؤال وجواب في الثقافة والدين والتاريخ والجغرافيا والعلوم، مع ألغاز ومسابقات للكبار …"
-        },
-        {
-            "title": "أسئلة ذكاء مع الحل 2026: أكثر من 200 سؤال وجواب للأذكياء",
-            "link": "https://mhtwyat.com/اسئلة-ذكاء/",
-            "snippet": "Oct 9, 2026 · شاهد أيضًا: أسئلة ذكاء رياضيات تُعد أجمل اسئلة ذكاء مع الحل عامة 2026 للأطفال والكبار أداة مميزة لتنمية التفكير وزيادة الثقافة العامة، حيث تجمع بين …"
-        },
-        {
-            "title": "اسئلة عامة صعبة مع الاجابة 2026 - ويكي السعودية",
-            "link": "https://saudi.wiki/اسئلة-عامة-صعبة/",
-            "snippet": "Nov 9, 2026 · اسئلة عامة صعبة مع الاجابة، والتي يتم الاستعانة بها بشكل كبير في أوقات الفراغ، وفي التجمعات العائلية لقضاء وقت ممتع ومفيد مهم، كما يتم من خلالها …"
-        },
-        {
-            "title": "مسبار Misbar | لعبة أسئلة وأجوبة ومسابقات ثقافية مع الخيارات",
-            "link": "https://playmisbar.com/",
-            "snippet": "مسبار لعبة أسئلة ومسابقات ثقافية مجانية بالعربية: أكثر من 19 ألف سؤال وجواب في 53 مجالًا مع الخيارات والإجابة الصحيحة وشرحها. تحدَّ أصدقاءك الآن."
-        }
-    ],
     "الرياضيات": [
         {
-            "title": "أسئلة ثقافية منوعة - موضوع",
-            "link": "https://mawdoo3.com/أسئلة_ثقافية_منوعة",
-            "snippet": "أسئلة ثقافية منوعة أسئلة في الثقافة العامّة فيما يأتي أسئلة في مجالات متنوعة: [١] [٢] [٣] من كم لون يتكون قوس قزح ؟ الجواب: 7 ألوان. كم عدد أحرف اللغة الإنجليزية؟ الجواب: …"
+            "category": "الفصل الأول والأسئلة مع الحل",
+            "title": "Add or install a printer in Windows | Microsoft Support",
+            "link": "https://support.microsoft.com/en-us/windows/hardware/printer/add-or-install-a-printer-in-windows",
+            "snippet": "[الفصل الأول والأسئلة مع الحل] Install a wired or local printer In most cases, local or wired printers will install automatically in Windows after they're plugged into the …"
         },
         {
-            "title": "أسئلة عامة وإجاباتها 2026: سهلة وصعبة للكبار والأطفال",
-            "link": "https://mhtwyat.com/اسئلة-عامة-واجوبتها/",
-            "snippet": "Oct 9, 2026 · اسئلة عامة وإجاباتها سهلة وصعبة 2026 – أكثر من 180 سؤال وجواب في الثقافة والدين والتاريخ والجغرافيا والعلوم، مع ألغاز ومسابقات للكبار …"
+            "category": "الفصل الأول والأسئلة مع الحل",
+            "title": "Menambahkan atau menginstal printer di Windows",
+            "link": "https://support.microsoft.com/id-id/windows/hardware/printer/add-or-install-a-printer-in-windows",
+            "snippet": "[الفصل الأول والأسئلة مع الحل] Menginstal printer berkabel atau lokal Biasanya, printer lokal atau berkabel akan diinstal secara otomatis di Windows setelah …"
         },
         {
-            "title": "أسئلة ذكاء مع الحل 2026: أكثر من 200 سؤال وجواب للأذكياء",
-            "link": "https://mhtwyat.com/اسئلة-ذكاء/",
-            "snippet": "Oct 9, 2026 · شاهد أيضًا: أسئلة ذكاء رياضيات تُعد أجمل اسئلة ذكاء مع الحل عامة 2026 للأطفال والكبار أداة مميزة لتنمية التفكير وزيادة الثقافة العامة، حيث تجمع بين …"
+            "category": "الفصل الأول والأسئلة مع الحل",
+            "title": "Windows에서 프린터 추가 또는 설치 | Microsoft Support",
+            "link": "https://support.microsoft.com/ko-kr/windows/hardware/printer/add-or-install-a-printer-in-windows",
+            "snippet": "[الفصل الأول والأسئلة مع الحل] Windows에서 로컬, 네트워크 및 Bluetooth 프린터를 추가, 설치 또는 제거하는 방법에 대해 알아봅니다."
         },
         {
-            "title": "اسئلة عامة صعبة مع الاجابة 2026 - ويكي السعودية",
-            "link": "https://saudi.wiki/اسئلة-عامة-صعبة/",
-            "snippet": "Nov 9, 2026 · اسئلة عامة صعبة مع الاجابة، والتي يتم الاستعانة بها بشكل كبير في أوقات الفراغ، وفي التجمعات العائلية لقضاء وقت ممتع ومفيد مهم، كما يتم من خلالها …"
+            "category": "الفصل الأول والأسئلة مع الحل",
+            "title": "在 Windows 中新增或安裝印表機 | Microsoft Support",
+            "link": "https://support.microsoft.com/zh-tw/windows/hardware/printer/add-or-install-a-printer-in-windows",
+            "snippet": "[الفصل الأول والأسئلة مع الحل] Windows 11 Windows 10 摘要 當印表機或多合一裝置直接連接到 Windows 裝置時，印表機正常會自動安裝，並可立即開始列印。 …"
         },
         {
-            "title": "مسبار Misbar | لعبة أسئلة وأجوبة ومسابقات ثقافية مع الخيارات",
-            "link": "https://playmisbar.com/",
-            "snippet": "مسبار لعبة أسئلة ومسابقات ثقافية مجانية بالعربية: أكثر من 19 ألف سؤال وجواب في 53 مجالًا مع الخيارات والإجابة الصحيحة وشرحها. تحدَّ أصدقاءك الآن."
+            "category": "الفصل الأول والأسئلة مع الحل",
+            "title": "Fix printer not found and printer not recognized errors in Windows",
+            "link": "https://support.microsoft.com/en-us/windows/hardware/printer/fix-printer-not-found-and-printer-not-recognized-errors-in-windows",
+            "snippet": "[الفصل الأول والأسئلة مع الحل] For more information, see Download and install the latest printer drivers. Step 4: Run the automated printer troubleshooter If you are …"
+        },
+        {
+            "category": "القوانين والمسائل وحلولها",
+            "title": "Gene's Heartland Foods | Ad Specials",
+            "link": "https://smithcenter.heartlandfoodsstores.com/ads",
+            "snippet": "[القوانين والمسائل وحلولها] Gene's Heartland Foods proudly serves the Smith Center,KS area. Come in for the best grocery experience in town. We're open …Read more"
+        },
+        {
+            "category": "القوانين والمسائل وحلولها",
+            "title": "Gene's Heartland Foods",
+            "link": "https://www.smithcenter.heartlandfoodsstores.com/",
+            "snippet": "[القوانين والمسائل وحلولها] Gene's Heartland Foods proudly serves the Smith Center,KS area. Come in for the best grocery experience in town. We're open …Read more"
+        },
+        {
+            "category": "القوانين والمسائل وحلولها",
+            "title": "Gene's Heartland Foods | About Us",
+            "link": "https://smithcenter.heartlandfoodsstores.com/about",
+            "snippet": "[القوانين والمسائل وحلولها] Gene's Heartland Foods proudly serves the Smith Center,KS area. Come in for the best grocery experience in town. We're open …Read more"
+        },
+        {
+            "category": "القوانين والمسائل وحلولها",
+            "title": "Gene's Heartland Foods | Departments",
+            "link": "https://smithcenter.heartlandfoodsstores.com/departments/produce",
+            "snippet": "[القوانين والمسائل وحلولها] Gene's Heartland Foods proudly serves the Smith Center,KS area. Come in for the best grocery experience in town. We're open …Read more"
+        },
+        {
+            "category": "القوانين والمسائل وحلولها",
+            "title": "Gene's Heartland Foods | Online Coupons",
+            "link": "https://smithcenter.heartlandfoodsstores.com/coupons",
+            "snippet": "[القوانين والمسائل وحلولها] Gene's Heartland Foods proudly serves the Smith Center,KS area. Come in for the best grocery experience in town. We're open …Read more"
         }
     ],
-    "الاحياء": [
+    "الفيزياء": [
         {
-            "title": "أسئلة ثقافية منوعة - موضوع",
-            "link": "https://mawdoo3.com/أسئلة_ثقافية_منوعة",
-            "snippet": "أسئلة ثقافية منوعة أسئلة في الثقافة العامّة فيما يأتي أسئلة في مجالات متنوعة: [١] [٢] [٣] من كم لون يتكون قوس قزح ؟ الجواب: 7 ألوان. كم عدد أحرف اللغة الإنجليزية؟ الجواب: 26 حرفاً. ما هو أصل …"
+            "category": "القوانين والمسائل وحلولها",
+            "title": "Rummy Card Game | Play it online",
+            "link": "https://cardgames.io/rummy/",
+            "snippet": "[القوانين والمسائل وحلولها] Play the classic card game Rummy online for free, against the computer or your friends. No download required, just start …"
         },
         {
-            "title": "أسئلة عامة وإجاباتها 2026: سهلة وصعبة للكبار والأطفال",
-            "link": "https://mhtwyat.com/اسئلة-عامة-واجوبتها/",
-            "snippet": "Oct 9, 2026 · اسئلة عامة وإجاباتها سهلة وصعبة 2026 – أكثر من 180 سؤال وجواب في الثقافة والدين والتاريخ والجغرافيا والعلوم، مع ألغاز ومسابقات للكبار والأطفال."
+            "category": "القوانين والمسائل وحلولها",
+            "title": "Rummy - Online & Free | Play Classic Card Games",
+            "link": "https://worldofcardgames.com/rummy",
+            "snippet": "[القوانين والمسائل وحلولها] Play free Rummy online against the computer or against real players. No signup required to get started. You can either …"
         },
         {
-            "title": "أسئلة ذكاء مع الحل 2026: أكثر من 200 سؤال وجواب للأذكياء",
-            "link": "https://mhtwyat.com/اسئلة-ذكاء/",
-            "snippet": "Oct 9, 2026 · شاهد أيضًا: أسئلة ذكاء رياضيات تُعد أجمل اسئلة ذكاء مع الحل عامة 2026 للأطفال والكبار أداة مميزة لتنمية التفكير وزيادة الثقافة العامة، حيث تجمع بين التحدي والمتعة وتساعد …"
+            "category": "القوانين والمسائل وحلولها",
+            "title": "Play Rummy - Online Card Game",
+            "link": "http://www.rummytastic.com/",
+            "snippet": "[القوانين والمسائل وحلولها] A free card game you can play in your browser against a computer opponent. Play this addictive game here."
         },
         {
-            "title": "اسئلة عامة صعبة مع الاجابة 2026 - ويكي السعودية",
-            "link": "https://saudi.wiki/اسئلة-عامة-صعبة/",
-            "snippet": "Nov 9, 2026 · اسئلة عامة صعبة مع الاجابة، والتي يتم الاستعانة بها بشكل كبير في أوقات الفراغ، وفي التجمعات العائلية لقضاء وقت ممتع ومفيد مهم، كما يتم من خلالها قياس مستوى الحصيلة …"
+            "category": "القوانين والمسائل وحلولها",
+            "title": "Play Classic Rummy Online Free",
+            "link": "https://onlinecardgames.io/rummy/",
+            "snippet": "[القوانين والمسائل وحلولها] Play classic Rummy online free against the computer. Make sets and runs, lay off cards and play to 100 points, with hints and …"
         },
         {
-            "title": "مسبار Misbar | لعبة أسئلة وأجوبة ومسابقات ثقافية مع الخيارات",
-            "link": "https://playmisbar.com/",
-            "snippet": "مسبار لعبة أسئلة ومسابقات ثقافية مجانية بالعربية: أكثر من 19 ألف سؤال وجواب في 53 مجالًا مع الخيارات والإجابة الصحيحة وشرحها. تحدَّ أصدقاءك الآن."
+            "category": "القوانين والمسائل وحلولها",
+            "title": "Classic Rummy: Play Free Online, No Download | Rummy.now",
+            "link": "https://rummy.now/rummy/",
+            "snippet": "[القوانين والمسائل وحلولها] Jul 3, 2026 · Play Classic Rummy free online against the computer. The original draw-and-discard game - Meld every card to …"
         },
         {
-            "title": "اسئلة عامة واجابتها 2026 - ويكي السعودية",
-            "link": "https://saudi.wiki/اسئلة-عامة/",
-            "snippet": "Nov 7, 2026 · اسئله عامه واجوبتها بالصور تتميز الصور التي تحمل في طياتها مجموعة من الأسئلة أنه يمكن مشاركتها عبر مواقع التواصل الاجتماعي مع الأهل والأصدقاء لنشر روح المنافسة …"
+            "category": "أسئلة وزارية مع الحل",
+            "title": "نسخ الفيزياء مع الاجوبة النموذجية للصف السادس العلمي",
+            "link": "https://iraqedu.net/نسخ-الاسئلة-الوزارية-مع-الحلول/نسخ-الفيزياء-مع-الاجوبة-النموذجية/",
+            "snippet": "[أسئلة وزارية مع الحل] May 31, 2026 · نسخة اسئلة وزارية الصف: السادس العلمي تاريخ التحديث: 2026-05-20 اسئلة الفيزياء الدور الاول السادس العلمي 2014 النازحين (الخاص) التصنيف: نسخة …"
         },
         {
-            "title": "أسئلة عامة سهلة وإجابتها.. 100 سؤال وجواب في جميع المجالات",
-            "link": "https://jawak.com/أسئلة-عامة-سهلة-وإجابتها-تعرف-الآن-59829",
-            "snippet": "يبحث كثيرون عن أسئلة عامة سهلة لاختبار معلوماتهم أو مشاركتها في المسابقات العائلية والمدرسية بطريقة ممتعة وبسيطة، فإذا كنت تريد تنشيط ذاكرتك، أو تبحث عن وسيلة مسلية لتعلم شيء جديد، فإليك …"
+            "category": "أسئلة وزارية مع الحل",
+            "title": "وزاريات الفيزياء سادس علمي بحلولها 2019–2026 | وزارياتي",
+            "link": "https://wizarati.app/wizari/physics",
+            "snippet": "[أسئلة وزارية مع الحل] وزاريات الفيزياء للسادس العلمي: 687 سؤالاً بحلولها من 2019 إلى 2026 و22 ورقة كاملة، حسب الفصل والسنة. الفهرس مجاني، والحلول ضمن بطاقة الوزاري."
         },
         {
-            "title": "أسئلة عامة منوعة - موضوع",
-            "link": "https://mawdoo3.com/أسئلة_عامة_منوعة",
-            "snippet": "أسئلة ثقافة عامة فيما يأتي مجموعة من أسئلة الثقافة العامة المنوعة وإجاباتها: [١] ما هو أصل الجبن البري (بالإنجليزية: Brie cheese)؟ من فرنسا. ما اسم عاصمة آيسلندا؟ ريكيافيك. من الرسّام الذي …"
+            "category": "أسئلة وزارية مع الحل",
+            "title": "اسئلة وزاري فيزياء السادس علمي 2026 التمهيدي مع الحلول النموذجية",
+            "link": "https://yudrik.com/ar/blog/physics_6th_scientific_2026_preliminary",
+            "snippet": "[أسئلة وزارية مع الحل] Apr 18, 2026 · أسئلة الامتحان الوزاري لمادة الفيزياء للصف السادس علمي للعام الدراسي 2026، التمهيدي. يحتوي …"
         },
         {
-            "title": "80 سؤالاً في مسابقة أسئلة مع إجاباتها للطلاب",
-            "link": "https://ahaslides.com/ar/blog/quiz-competition-questions/",
-            "snippet": "4 days ago · 80 سؤالاً للمسابقات مع إجابات للطلاب، موزعة على 8 جولات تتراوح بين العلوم والألغاز، بالإضافة إلى قواعد بسيطة ونظام تسجيل النقاط لمسابقة مدرسية."
+            "category": "أسئلة وزارية مع الحل",
+            "title": "وزاريات السادس العلمي — أسئلة وزارية بالأجوبة | تميزك",
+            "link": "https://tamyazak.site/ministerial-questions",
+            "snippet": "[أسئلة وزارية مع الحل] تميزك منصة تفاعلية للسادس العلمي: فلاش كاردات، ملخصات، أسئلة وزارية، ومتابعة التقدم. Flashcards, notes, ministerial questions, and progress tracking."
         },
         {
-            "title": "اسئلة عامة واجابتها 2026 .. معلومات عامة مسابقة ثقافية رائعة",
-            "link": "https://www.belarabyapps.com/أسئلة-عامة-سهلة-واجابتها/",
-            "snippet": "Dec 21, 2020 · اسئلة عامة 2026 واجابتها .. معلومات عامة مسابقة ثقافية اسئلة عامة مع الجواب 2026 أسئلة ممتعة متنوعة للمسابقات مع الإجابات للأطفال والكبار .. جمعنا لكم من اصعب وأسهل …"
+            "category": "أسئلة وزارية مع الحل",
+            "title": "نماذج اسئلة امتحانات السادس العلمي المادة الفيزياء PDF",
+            "link": "https://iraqiteacher.com/exams?id=12&lsn=15",
+            "snippet": "[أسئلة وزارية مع الحل] قم بتحميل نماذج اسئلة الامتحانات الوزارية والتمهيدية في العراق السادس العلمي و لمادة الفيزياء بصيغة PDF مع الحلول النموذجية."
+        }
+    ],
+    "الكيمياء": [
+        {
+            "category": "القوانين والمسائل وحلولها",
+            "title": "Global Coffee Creator - About Starbucks",
+            "link": "https://about.starbucks.com/global-coffee-creator/",
+            "snippet": "[القوانين والمسائل وحلولها] May 28, 2025 · Get paid to post about it. Calling all coffee-obsessed creators: we’re on the hunt for our newest role, the Starbucks …Read more"
+        },
+        {
+            "category": "القوانين والمسائل وحلولها",
+            "title": "Keeping your cup full: How Starbucks is supporting the future of coffee",
+            "link": "https://about.starbucks.com/stories/2025/keeping-your-cup-full-how-starbucks-is-working-to-save-the-future-of-coffee/",
+            "snippet": "[القوانين والمسائل وحلولها] Sep 24, 2025 · Your morning ritual of drinking coffee is easy to take for granted, but in some areas, farmers may not be able to grow …Read more"
+        },
+        {
+            "category": "القوانين والمسائل وحلولها",
+            "title": "Journey to Origin – Coffee lessons from Rwanda - Starbucks Stories",
+            "link": "https://stories.starbucks.com/emea/stories/2025/journey-to-origin-coffee-lessons-from-rwanda/",
+            "snippet": "[القوانين والمسائل وحلولها] Jun 10, 2025 · Journey to Origin – Coffee lessons from Rwanda June 10, 2025 6 min read June 10, 2025 The first thing Ben Hobby …Read more"
+        },
+        {
+            "category": "القوانين والمسائل وحلولها",
+            "title": "Coffee Finder| Starbucks® at Home",
+            "link": "https://athome.starbucks.com/coffee-finder",
+            "snippet": "[القوانين والمسائل وحلولها] Experience the new Nestle - Coffee - Starbucks At Home - US campaign. Powered by the customer engagement first party data …Read more"
+        },
+        {
+            "category": "القوانين والمسائل وحلولها",
+            "title": "Starbucks Celebrates 15 Years in El Salvador with the Opening of “Casa ...",
+            "link": "https://historias.starbucks.com/en-es/press/2025/starbucks-celebrates-15-years-in-el-salvador-with-the-opening-of-casa-bou-a-one-of-a-kind-flagship-coffeehouse/",
+            "snippet": "[القوانين والمسائل وحلولها] Oct 30, 2025 · Over 50 Years of Shared Coffee Heritage The relationship between Starbucks and El Salvador spans more than five …Read more"
+        },
+        {
+            "category": "أسئلة وزارية مع الحل",
+            "title": "World Television Day | United Nations - الأمم المتحدة",
+            "link": "https://www.un.org/en/observances/world-television-day",
+            "snippet": "[أسئلة وزارية مع الحل] That is why the General Assembly decided to proclaim 21 November as World Television Day. This was done in recognition of the …Read more"
+        },
+        {
+            "category": "أسئلة وزارية مع الحل",
+            "title": "World Television Day - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/World_Television_Day",
+            "snippet": "[أسئلة وزارية مع الحل] This day was observed annually to recognize the increasing impact of television on decision making by bringing global attention to …Read more"
+        },
+        {
+            "category": "أسئلة وزارية مع الحل",
+            "title": "World Television Day - Days Of The Year",
+            "link": "https://www.daysoftheyear.com/days/world-television-day/",
+            "snippet": "[أسئلة وزارية مع الحل] 1 day ago · In December 1996 the United Nations General Assembly proclaimed the 21st of November World Television Day, the …Read more"
+        },
+        {
+            "category": "أسئلة وزارية مع الحل",
+            "title": "World Television Day (Nov 21st) - What Special Day",
+            "link": "https://whatspecialday.com/world-television-day",
+            "snippet": "[أسئلة وزارية مع الحل] 1 day ago · The UN General Assembly declared November 21st as World Television Day in December 1996, in recognition of the first …Read more"
+        },
+        {
+            "category": "أسئلة وزارية مع الحل",
+            "title": "World Television Day — November 21, 2026 - National Today",
+            "link": "https://nationaltoday.com/world-television-day/",
+            "snippet": "[أسئلة وزارية مع الحل] Nov 21, 2020 · World Television Day recognizes the profound impact of television on global communication and decision-making …Read more"
+        }
+    ],
+    "الأحياء": [
+        {
+            "category": "الفصل الأول والأسئلة مع الحل",
+            "title": "أسئلة الفصل الأول - علم الاحياء - سادس اعدادي - المنهج العراقي",
+            "link": "https://sahl.io/iq/lesson/16881/سادس-اعدادي/علم-الاحياء/أسئلة-الفصل-الأول",
+            "snippet": "[الفصل الأول والأسئلة مع الحل] أسئلة الفصل الأول - علم الاحياء - سادس اعدادي الفصل الأول: الخلية 1-1 مقدمة 1-2 نظرية الخلية"
+        },
+        {
+            "category": "الفصل الأول والأسئلة مع الحل",
+            "title": "نسخ الاحياء مع الاجوبة النموذجية للصف السادس العلمي",
+            "link": "https://iraqedu.net/نسخ-الاسئلة-الوزارية-مع-الحلول/نسخ-الاحياء-مع-الاجوبة-النموذجية/",
+            "snippet": "[الفصل الأول والأسئلة مع الحل] اسئلة الاحياء مع الاجوبة النموذجية مركز فحص الكونترول للصف السادس الاعدادي العلمي الصفحة الرئيسية » نسخ الاسئلة الوزارية مع الحلول » نسخ الاحياء مع الاجوبة النموذجية للصف السادس …"
+        },
+        {
+            "category": "الفصل الأول والأسئلة مع الحل",
+            "title": "اسئلة شامله وزاريه في احياء السادس اعدادي (الفصل الاول) المنهاج العراقي ...",
+            "link": "https://arab1education.com/اسئلة-شامله-وزاريه-في-احياء-السادس-اعد/",
+            "snippet": "[الفصل الأول والأسئلة مع الحل] Jun 18, 2024 · تعليم وجامعات العراق اسئلة شامله وزاريه في احياء السادس اعدادي (الفصل الاول) المنهاج العراقي hanan 2024-06-18 1٬119 أقل من دقيقة اسئلة شامله وزاريه في احياء …"
+        },
+        {
+            "category": "الفصل الأول والأسئلة مع الحل",
+            "title": "دليل أسئلة امتحانات الأحياء للصف السادس العلمي الفصل الأول 2025",
+            "link": "https://iraqiteacher.com/booklet/702",
+            "snippet": "[الفصل الأول والأسئلة مع الحل] دليل أسئلة امتحانات الأحياء للصف السادس العلمي الفصل الأول 2025 تحميل pdf"
+        },
+        {
+            "category": "الفصل الأول والأسئلة مع الحل",
+            "title": "حل اسئلة الفصل الاول السادس الاحيائي الست مروة العباسي | PDF",
+            "link": "https://www.scribd.com/document/528315553/حل-اسئلة-الفصل-الاول-السادس-الاحيائي-الست-مروة-العباسي",
+            "snippet": "[الفصل الأول والأسئلة مع الحل] Scribd is the world's largest social reading and publishing site."
+        },
+        {
+            "category": "أسئلة وزارية مع الحل",
+            "title": "Top 20 MercyMe Songs - YouTube Music",
+            "link": "https://music.youtube.com/playlist?list=PL8X3_jDbR6ZjIkBYO0pjfsvJClB_YROuK",
+            "snippet": "[أسئلة وزارية مع الحل] MercyMe - The Hurt & The Healer with Lyrics iLyricsInc 4:49 Mercy Me - Move Lyrics stephengravois 2:58 You Reign - Mercy Me - …Read more"
+        },
+        {
+            "category": "أسئلة وزارية مع الحل",
+            "title": "MercyMe Songs — Listed by Album & Year - SONGLYRICS.com",
+            "link": "https://www.songlyrics.com/mercyme-lyrics/songs/",
+            "snippet": "[أسئلة وزارية مع الحل] Every MercyMe song with album, year, and full lyrics. Sort A–Z, by popularity, or release date. Top hits: I Can Only Imagine • Word of …Read more"
+        },
+        {
+            "category": "أسئلة وزارية مع الحل",
+            "title": "MercyMe Song List",
+            "link": "https://www.song-list.net/mercyme/songs",
+            "snippet": "[أسئلة وزارية مع الحل] A list of songs by MercyMe⭐, which albums they are on and where to find them on Amazon and Apple Music. Get the best songs by …Read more"
+        },
+        {
+            "category": "أسئلة وزارية مع الحل",
+            "title": "Mercy Me list of songs - YouTube Music",
+            "link": "https://music.youtube.com/playlist?list=PLCD29E32BC6DD65E1",
+            "snippet": "[أسئلة وزارية مع الحل] MercyMe - Lord I lift your name on high T1R9A6C3Y 3:50 mercy me-goodbye ordinary robotmana 4:27 MercyMe Won't You Be My Love …Read more"
+        },
+        {
+            "category": "أسئلة وزارية مع الحل",
+            "title": "15 Best MercyMe Songs of All Time (Greatest Hits) - MidderMusic",
+            "link": "https://middermusic.com/mercyme-songs/",
+            "snippet": "[أسئلة وزارية مع الحل] Aug 7, 2026 · I’ve curated the best MercyMe songs of all time, a collection of greatest hits that showcase the impactful and uplifting …Read more"
+        }
+    ],
+    "اللغة الإنجليزية": [
+        {
+            "category": "قواعد وتمارين وحلول",
+            "title": "What Texas runoff election results mean for Austin voters in November",
+            "link": "https://www.statesman.com/news/politics/elections/article/texas-runoff-election-results-austin-november-22279101.php",
+            "snippet": "[قواعد وتمارين وحلول] May 28, 2026 · Voters settled major statewide and Travis County races, including Paxton-Cornyn and Austin-area contests."
+        },
+        {
+            "category": "قواعد وتمارين وحلول",
+            "title": "Google",
+            "link": "https://www.google.com/",
+            "snippet": "[قواعد وتمارين وحلول] Search the world's information, including webpages, images, videos and more. Google has many special features to help you find …"
+        },
+        {
+            "category": "قواعد وتمارين وحلول",
+            "title": "Google Search - A new kind of help",
+            "link": "https://search.google/",
+            "snippet": "[قواعد وتمارين وحلول] Explore a new kind of help for your everyday with breakthroughs in Search intelligence from Google I/O."
+        },
+        {
+            "category": "قواعد وتمارين وحلول",
+            "title": "Google - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Google",
+            "snippet": "[قواعد وتمارين وحلول] Google LLC (also known simply as Google and pronounced / ˈɡuː.ɡəl / ⓘ or GOO-gəl) is an American multinational technology …"
+        },
+        {
+            "category": "قواعد وتمارين وحلول",
+            "title": "About Google: History, office locations, commitments, initiatives",
+            "link": "https://about.google/company-info/",
+            "snippet": "[قواعد وتمارين وحلول] Learn more about Google’s office locations, history and commitments, plus our key initiatives around sustainability, accessibility and …"
+        },
+        {
+            "category": "أسئلة وزارية مع الحل",
+            "title": "Spring 2014 Global Attitudes - Pew Research Center",
+            "link": "https://www.pewresearch.org/dataset/2014-spring-global-attitudes/",
+            "snippet": "[أسئلة وزارية مع الحل] Mar 19, 2015 · In a few short years, the proliferation of mobile phone networks has transformed communications in sub-Saharan Africa. …Read more"
+        },
+        {
+            "category": "أسئلة وزارية مع الحل",
+            "title": "Gun Rights vs. Gun Control | Pew Research Center",
+            "link": "https://www.pewresearch.org/politics/2017/06/22/public-views-about-guns/",
+            "snippet": "[أسئلة وزارية مع الحل] Jun 22, 2017 · The Pew Research Center has tracked shifting public attitudes about guns over the past 20 years. Explore our polling …Read more"
+        },
+        {
+            "category": "أسئلة وزارية مع الحل",
+            "title": "301 Moved Permanently",
+            "link": "https://www.procon.org/",
+            "snippet": "[أسئلة وزارية مع الحل] 301 Moved Permanently 301 Moved Permanently cloudflare"
+        },
+        {
+            "category": "أسئلة وزارية مع الحل",
+            "title": "Key takeaways on Americans’ views of guns and gun ownership",
+            "link": "https://www.pewresearch.org/short-reads/2017/06/22/key-takeaways-on-americans-views-of-guns-and-gun-ownership/",
+            "snippet": "[أسئلة وزارية مع الحل] Jun 22, 2017 · Gun owners and non-owners have differing views on the severity of gun violence. Overall, half of Americans say gun …Read more"
+        },
+        {
+            "category": "أسئلة وزارية مع الحل",
+            "title": "Rural and urban gun owners have different experiences, views on gun ...",
+            "link": "https://www.pewresearch.org/short-reads/2017/07/10/rural-and-urban-gun-owners-have-different-experiences-views-on-gun-policy/",
+            "snippet": "[أسئلة وزارية مع الحل] Jul 10, 2017 · Nearly six-in-ten rural Americans have a gun in their household, compared with smaller shares of suburban and urban gun …Read more"
         }
     ],
     "اللغة العربية": [
         {
-            "title": "أسئلة ثقافية منوعة - موضوع",
-            "link": "https://mawdoo3.com/أسئلة_ثقافية_منوعة",
-            "snippet": "أسئلة ثقافية منوعة أسئلة في الثقافة العامّة فيما يأتي أسئلة في مجالات متنوعة: [١] [٢] [٣] من كم لون يتكون قوس قزح ؟ الجواب: 7 ألوان. كم عدد أحرف اللغة الإنجليزية؟ الجواب: …"
+            "category": "أسئلة وزارية مع الحل",
+            "title": "Maintenance Fluids Calculations Calculator",
+            "link": "https://www.mdcalc.com/calc/72/maintenance-fluids-calculations",
+            "snippet": "[أسئلة وزارية مع الحل] Calculates maintenance fluid requirements by weight. While originally derived in pediatric patients, this calculator is applicable to any …"
         },
         {
-            "title": "أسئلة عامة وإجاباتها 2026: سهلة وصعبة للكبار والأطفال",
-            "link": "https://mhtwyat.com/اسئلة-عامة-واجوبتها/",
-            "snippet": "Oct 9, 2026 · اسئلة عامة وإجاباتها سهلة وصعبة 2026 – أكثر من 180 سؤال وجواب في الثقافة والدين والتاريخ والجغرافيا والعلوم، مع ألغاز ومسابقات للكبار …"
+            "category": "أسئلة وزارية مع الحل",
+            "title": "Pediatric Maintenance Fluid Calculator (4-2-1 Rule)",
+            "link": "https://healthcalculatoronline.com/pediatric-maintenance-fluid-calculator/",
+            "snippet": "[أسئلة وزارية مع الحل] Jul 10, 2026 · Free pediatric maintenance fluid calculator using the Holliday-Segar 4-2-1 rule — get hourly IV rates and daily volumes from a …"
         },
         {
-            "title": "أسئلة ذكاء مع الحل 2026: أكثر من 200 سؤال وجواب للأذكياء",
-            "link": "https://mhtwyat.com/اسئلة-ذكاء/",
-            "snippet": "Oct 9, 2026 · شاهد أيضًا: أسئلة ذكاء رياضيات تُعد أجمل اسئلة ذكاء مع الحل عامة 2026 للأطفال والكبار أداة مميزة لتنمية التفكير وزيادة الثقافة العامة، حيث تجمع بين …"
+            "category": "أسئلة وزارية مع الحل",
+            "title": "Maintenance Fluid Calculator (4-2-1 Rule) - MDTools",
+            "link": "https://mdtools.org/maintenance-fluids",
+            "snippet": "[أسئلة وزارية مع الحل] Calculate IV maintenance fluid rates using the Holliday-Segar (4-2-1) formula for pediatric and adult patients. Instant results."
         },
         {
-            "title": "اسئلة عامة صعبة مع الاجابة 2026 - ويكي السعودية",
-            "link": "https://saudi.wiki/اسئلة-عامة-صعبة/",
-            "snippet": "Nov 9, 2026 · اسئلة عامة صعبة مع الاجابة، والتي يتم الاستعانة بها بشكل كبير في أوقات الفراغ، وفي التجمعات العائلية لقضاء وقت ممتع ومفيد مهم، كما يتم من خلالها …"
+            "category": "أسئلة وزارية مع الحل",
+            "title": "Maintenance Fluids Calculator - 4-2-1 rule",
+            "link": "https://matecalculator.com/health/maintenance-fluids",
+            "snippet": "[أسئلة وزارية مع الحل] The Maintenance Fluids Calculator calculates maintenance fluid requirements by weight. Based on Holliday-Segar method and the 4-2-1 rule."
         },
         {
-            "title": "مسبار Misbar | لعبة أسئلة وأجوبة ومسابقات ثقافية مع الخيارات",
-            "link": "https://playmisbar.com/",
-            "snippet": "مسبار لعبة أسئلة ومسابقات ثقافية مجانية بالعربية: أكثر من 19 ألف سؤال وجواب في 53 مجالًا مع الخيارات والإجابة الصحيحة وشرحها. تحدَّ أصدقاءك الآن."
+            "category": "أسئلة وزارية مع الحل",
+            "title": "Adult Maintenance Fluid Calculation",
+            "link": "https://everycalculators.com/maintenance-fluid-calculation-for-adults.html",
+            "snippet": "[أسئلة وزارية مع الحل] Calculate adult maintenance fluid requirements using the 4-2-1 rule. Our expert guide covers formulas, practical examples, key factors, and …"
         }
     ],
-    "اللغة الانجليزية": []
+    "الإسلامية": [
+        {
+            "category": "أسئلة وزارية مع الحل",
+            "title": "Unable to access favorite porn site, eporner.com, on my home internet ...",
+            "link": "https://www.reddit.com/r/computerhelp/comments/3rqgor/unable_to_access_favorite_porn_site_epornercom_on/",
+            "snippet": "[أسئلة وزارية مع الحل] Nov 6, 2015 · Unable to access favorite porn site, eporner.com, on my home internet? This is going to sound ridiculous, but I can't …"
+        },
+        {
+            "category": "أسئلة وزارية مع الحل",
+            "title": "Can't access eporner.com : r/techsupport - Reddit",
+            "link": "https://www.reddit.com/r/techsupport/comments/193l71/cant_access_epornercom/",
+            "snippet": "[أسئلة وزارية مع الحل] Feb 23, 2013 · true Stumped on a tech problem? Ask the community and try to help others with their problems as well. Note: Reddit …"
+        },
+        {
+            "category": "أسئلة وزارية مع الحل",
+            "title": "eporner_com - Reddit",
+            "link": "https://www.reddit.com/r/eporner_com/",
+            "snippet": "[أسئلة وزارية مع الحل] r/eporner_com This community doesn't have any posts yet Make one and get this feed started. Create a post"
+        },
+        {
+            "category": "أسئلة وزارية مع الحل",
+            "title": "One website seems like it is possibly blocked by my ISP.. how ... - Reddit",
+            "link": "https://www.reddit.com/r/techsupport/comments/3qcv16/one_website_seems_like_it_is_possibly_blocked_by/",
+            "snippet": "[أسئلة وزارية مع الحل] Oct 27, 2015 · Eporner is mostly HD content, so I assume watching videos there uses more bandwidth than some other sites.. but …"
+        },
+        {
+            "category": "أسئلة وزارية مع الحل",
+            "title": "DeoVR : r/oculusnsfw - Reddit",
+            "link": "https://www.reddit.com/r/oculusnsfw/comments/190m2qg/deovr/",
+            "snippet": "[أسئلة وزارية مع الحل] I watch VR videos all the time on eporner, pornhub, etc just using the built in meta browser. I tried going to NaughtyAmerica, Badoink …"
+        }
+    ]
 }
