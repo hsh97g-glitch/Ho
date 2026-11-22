@@ -1,36 +1,64 @@
 import json
+import re
 import time
+
+
+def has_arabic(text):
+    return bool(re.search(r"[\u0600-\u06FF]", text or ""))
+
+
+def is_irrelevant_result(title, link, snippet):
+    combined = f"{title} {link} {snippet}".lower()
+
+    # لازم النتيجة تحتوي على حروف عربية
+    if not has_arabic(f"{title} {snippet}"):
+        return True
+
+    blocked_terms = [
+        "printer",
+        "print",
+        "windows",
+        "driver",
+        "microsoft support",
+        "ألغاز",
+        "مسابقات",
+        "ثقافية منوعة",
+        "ذكاء",
+        "ويكي السعودية",
+        "مصر",
+        "ثانوية عامة مصر",
+        "프린터",
+        "인쇄",
+        "印表機",
+        "menginstal",
+    ]
+    return any(term in combined for term in blocked_terms)
 
 
 def search_duckduckgo(query, max_results=6):
     results = []
     try:
         from duckduckgo_search import DDGS
+
         with DDGS() as ddgs:
-            raw = ddgs.text(query, max_results=max_results)
+            try:
+                raw = ddgs.text(query, region="xa-ar", max_results=max_results)
+            except TypeError:
+                raw = ddgs.text(query, max_results=max_results)
+
             if raw:
                 for r in raw:
-                    title = r.get("title", "بدون عنوان")
-                    link = r.get("href", "")
-                    snippet = r.get("body", "")
+                    title = (r.get("title") or "بدون عنوان").strip()
+                    link = (r.get("href") or "").strip()
+                    snippet = (r.get("body") or "").strip()
 
-                    blocked_words = [
-                        "ألغاز",
-                        "مسابقات",
-                        "ثقافية منوعة",
-                        "ذكاء",
-                        "ويكي السعودية",
-                        "مصر",
-                        "ثانوية عامة مصر"
-                    ]
-                    combined_text = f"{title} {snippet} {link}".lower()
-                    if any(word in combined_text for word in blocked_words):
+                    if is_irrelevant_result(title, link, snippet):
                         continue
 
                     results.append({
                         "title": title,
                         "link": link,
-                        "snippet": snippet
+                        "snippet": snippet,
                     })
     except Exception as e:
         print(f"تنبيه أثناء البحث ({query}): {e}")
@@ -85,7 +113,7 @@ def main():
         queries = build_queries_for_subject(subject)
         for category_label, query in queries:
             print(f"  - بحث ({category_label}): {query}")
-            found = search_duckduckgo(query, max_results=5)
+            found = search_duckduckgo(query, max_results=6)
 
             for item in found:
                 link = item.get("link", "")
@@ -110,7 +138,7 @@ def main():
     with open("questions_data.json", "w", encoding="utf-8") as f:
         json.dump(database, f, ensure_ascii=False, indent=4)
 
-    print("تم تحديث ملف questions_data.json بجميع مواد السادس العلمي بنجاح.")
+    print("تم تحديث ملف questions_data.json بنجاح.")
 
 
 if __name__ == "__main__":
